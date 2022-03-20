@@ -26,4 +26,4 @@ __autoprefixer__: 스타일에 자동으로 공급 업체 접두사(Vendor prefi
 - `npm i -D webpack-dev-server@next`로 설치(webpack-cli 버전(@4^)과 일치)!<br>
 - `package.json` 옵션으로 `browserslist` 추가!<br>
 - `.postcssrc.js` 생성(PostCSS 구성 옵션)!<br>
-- `.babelrc.js` 생성(Babel 구성 옵션)!<br>
+- `.babelrc` 생성(Babel 구성 옵션)!<br>
